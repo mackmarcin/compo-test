@@ -1,0 +1,13 @@
+{
+    "name": "mchudy/compo-test",
+    "description": "xyz",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcin Chudy",
+            "email": "marcin.chudy@bm.pl"
+        }
+    ],
+    "require": {}
+}
